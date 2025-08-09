@@ -11,7 +11,7 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 
 - ![alt text](PH/img.png) 
 - ![alt text](PH/img1.png) 
-- ![alt text](PH/img2.png)
+- ![alt text](PH/mg2.png)
 
 ## Bill of Materials (BOM)
 
@@ -30,5 +30,6 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 **Total Cost = $306**
 
 ---
+
 
 
