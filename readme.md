@@ -9,9 +9,9 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 
 ## Project Images
 
-- ![alt text](img.png) 
-- ![alt text](img1.png) 
-- ![alt text](img2.png)
+- ![alt text](PH/img.png) 
+- ![alt text](PH/img1.png) 
+- ![alt text](PH/img2.png)
 
 ## Bill of Materials (BOM)
 
@@ -30,4 +30,5 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 **Total Cost = $306**
 
 ---
+
 
