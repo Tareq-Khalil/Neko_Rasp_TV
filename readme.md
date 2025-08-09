@@ -1,10 +1,10 @@
 # Neko Rasp TV 
 
-A Raspberry Pi–powered Cat TV that plays high-quality bird and squirrel videos with sound, inside a sleek, cat-proof enclosure. Touch input is disabled, so it can run hands-free for hours, designed especially for curious feline minds.
+A Raspberry Pi-powered Cat TV that plays high-quality bird and squirrel videos with sound, inside a sleek, cat-proof enclosure. Touch input is disabled, so it can run hands-free for hours, designed especially for curious feline minds.
 
 ## Why I Made This Project
 
-My cat loves sitting in front of a window and watching birds. I wanted to build a dedicated Cat TV that works out-of-the-box, boots straight into a stream, and plays videos continuously without distractions. I also wanted it to look clean and polished on a shelf—like a real product, not a pile of wires.
+My cat loves sitting in front of a window and watching birds. I wanted to build a dedicated Cat TV that works out-of-the-box, boots straight into a stream, and plays videos continuously without distractions. I also wanted it to look clean and polished on a shelf-like a real product, not a pile of wires.
 
 
 ## Project Images
@@ -30,3 +30,4 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 **Total Cost = $306**
 
 ---
+
