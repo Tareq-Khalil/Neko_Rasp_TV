@@ -51,7 +51,8 @@ I installed and configured the speaker to play rich stereo bird songs. I adjuste
 **Day 7 – 19/06/2025**  
 *Time Spent:* 6 hours  
 I assembled all parts inside the 3D-printed body. I used hot glue and screws to fix the speaker in place, preventing rattling from bass-heavy sounds. I documented assembly alignment and internal wire paths.
-- ![alt text](PH/mg2.png)
+- ![alt text](PH/img1.png) 
+
 
 ---
 
@@ -88,7 +89,8 @@ I reviewed the power stability with different adapters. I chose a 3A USB-C suppl
 **Day 13 – 25/06/2025**  
 *Time Spent:* 5 hours  
 I conducted a durability test by letting the system run for a full day. Everything performed flawlessly. I documented results, polished the design, and took final photos of the device running next to my cat.
-- ![alt text](PH/img1.png) 
+- ![alt text](PH/mg2.png)
+
 
 ---
 
@@ -103,3 +105,4 @@ I wrote up the readme, added wiring photos, and tested the system in low-light t
 Final check of the project repository. I reviewed all wiring, boot scripts, media settings, documentation, and BOM accuracy. I uploaded all images and finished writing the journal.
 
 ---
+
