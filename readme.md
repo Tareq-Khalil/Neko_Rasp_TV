@@ -17,7 +17,7 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 
 | # | Component                             | Description                                      | Price (USD) | Link |
 |---|---------------------------------------|--------------------------------------------------|-------------|------|
-| 1 | Raspberry Pi 5 (4 GB)                 | Main processing unit                             | $107        | [Link](https://microohm-eg.com/product/raspberry-pi-5-model-4gb/) |
+| 1 | Arduino Due (32-bit)	                | Main processing unit                             | $107        | [Link](https://microohm-eg.com/product/raspberry-pi-5-model-4gb/) |
 | 2 | 5″ HDMI Capacitive Touchscreen        | Main display (touch disabled via cable)          | $93         | [Link](https://www.ubuy.com.eg/en/product/M6RO5B59M-5inch-ips-touch-screen-1024x600) |
 | 3 | USB-Powered Mini Speaker              | Cat-attracting stereo sound                      | $19.99      | [Link](https://www.amazon.com/dp/B08C2WTKN1) |
 | 4 | Slim HDMI → Micro-HDMI Cable          | Video signal connection                          | $10         | [Link](https://www.argosycable.com/product/lindy-cromo-slim-hdmi-cable-with-ethernet) |
@@ -30,6 +30,7 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 **Total Cost = $306**
 
 ---
+
 
 
 
