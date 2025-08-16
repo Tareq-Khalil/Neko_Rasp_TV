@@ -103,6 +103,7 @@ Final check of the project repository. I reviewed all wiring, boot scripts, medi
 
 
 ## Images
-- ![alt text](img.png) 
-- ![alt text](img1.png) 
-- ![alt text](img2.png)
+- ![alt text](PH/img.png) 
+- ![alt text](PH/img1.png) 
+
+- ![alt text](PH/img2.png)
