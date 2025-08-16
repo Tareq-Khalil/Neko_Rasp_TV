@@ -24,11 +24,12 @@ My cat loves sitting in front of a window and watching birds. I wanted to build 
 | 5 | USB-C 3A Power Adapter (x2)           | Power for Pi and display                         | $18.99      | [Link](https://www.amazon.com/dp/B07TYQRXTK) |
 | 7 | Charge-only USB Cable                 | Disables touch input                             | $9          | — |
 | 8 | Screws & Hot Glue                     | Internal mounting hardware                       | $8          | — |
-| 9 | Pi Fan & Heat Sink                    | Thermal management system                        | $14.99      | — |
+| 9 | Fan & Heat Sink                    | Thermal management system                        | $14.99      | — |
 
 **Total Cost = $235**
 
 ---
+
 
 
 
