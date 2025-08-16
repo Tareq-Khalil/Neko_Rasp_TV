@@ -103,8 +103,3 @@ I wrote up the readme, added wiring photos, and tested the system in low-light t
 Final check of the project repository. I reviewed all wiring, boot scripts, media settings, documentation, and BOM accuracy. I uploaded all images and finished writing the journal.
 
 ---
-
-
-## Images
-
-
