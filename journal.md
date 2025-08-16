@@ -14,6 +14,7 @@ created_at: "13/6/2025"
 **Day 1 – 12/06/2025**  
 *Time Spent:* 4 hours  
 I began sketching out the idea of building a dedicated Cat TV that doesn't just play videos but feels like a polished device. I searched through different streaming options and started listing required components.
+- ![alt text](PH/img.png) 
 
 ---
 
@@ -50,6 +51,7 @@ I installed and configured the speaker to play rich stereo bird songs. I adjuste
 **Day 7 – 19/06/2025**  
 *Time Spent:* 6 hours  
 I assembled all parts inside the 3D-printed body. I used hot glue and screws to fix the speaker in place, preventing rattling from bass-heavy sounds. I documented assembly alignment and internal wire paths.
+- ![alt text](PH/mg2.png)
 
 ---
 
@@ -86,6 +88,7 @@ I reviewed the power stability with different adapters. I chose a 3A USB-C suppl
 **Day 13 – 25/06/2025**  
 *Time Spent:* 5 hours  
 I conducted a durability test by letting the system run for a full day. Everything performed flawlessly. I documented results, polished the design, and took final photos of the device running next to my cat.
+- ![alt text](PH/img1.png) 
 
 ---
 
@@ -103,7 +106,5 @@ Final check of the project repository. I reviewed all wiring, boot scripts, medi
 
 
 ## Images
-- ![alt text](PH/img.png) 
-- ![alt text](PH/img1.png) 
 
-- ![alt text](PH/img2.png)
+
